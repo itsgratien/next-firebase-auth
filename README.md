@@ -1,4 +1,4 @@
-# next-auth
+# Next Firebase Auth
 Authenticate users using firebase auth in next js
 
 ## Providers
